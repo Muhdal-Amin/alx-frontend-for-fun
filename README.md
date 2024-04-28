@@ -1,1 +1,1 @@
-This directory contains my project files for the ALX - Holberton school Markdown course.
+This repository contains my project files for the ALX - Holberton school Markdown course.
